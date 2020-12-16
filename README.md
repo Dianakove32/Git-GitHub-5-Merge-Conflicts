@@ -1,1 +1,1 @@
-# Git-GitHub-5-Merge-Conflicts
+«LOCAL»
